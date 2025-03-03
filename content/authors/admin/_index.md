@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Scholar at Department of Computer Science and Engineering, Indian Institute of Technology Roorkee
+role: Research Scholar at Department of Computer Science and Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
