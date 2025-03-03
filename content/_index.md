@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: polygon_green-wallpaper-1920x1080.jpg
           filters:
             brightness: 1.0
           size: cover
