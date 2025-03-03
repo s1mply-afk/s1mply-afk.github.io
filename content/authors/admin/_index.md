@@ -17,8 +17,9 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Scholar |
-Department of Computer Science and Engineering
+role: |
+  Research Scholar<br>
+  Department of Computer Science and Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
