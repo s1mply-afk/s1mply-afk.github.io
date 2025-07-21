@@ -70,5 +70,3 @@ sections:
   #       css_class: "bg-primary-700"
   #       css_style: ""
 ---
-
-in this github code i dont want to include the news section
